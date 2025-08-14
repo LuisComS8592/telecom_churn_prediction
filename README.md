@@ -54,8 +54,6 @@ telecom_churn_prediction/
 ├── README.md           # Documentação principal do projeto
 ├── requirements.txt    # Lista de dependências Python
 ├── data/               # Pasta para armazenar os dados (não versionada)
-│   ├── raw/            # Dados originais e brutos
-│   └── processed/      # Dados limpos e pré-processados
 ├── notebooks/          # Contém os Jupyter Notebooks com a análise
 └── models/             # Armazena os modelos treinados e serializados
 ```
